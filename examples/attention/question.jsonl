@@ -1,0 +1,1 @@
+{"question_id": "attention_heads", "images": ["1706.03762v7_page-0004.jpg", "1706.03762v7_page-0005.jpg", "1706.03762v7_page-0006.jpg"], "num_images": 3, "user": "How many parallel attention heads are used in the model? Answer with only the number."}

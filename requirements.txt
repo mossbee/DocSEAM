@@ -1,0 +1,8 @@
+torch>=2.6
+torchvision>=0.21
+transformers==5.6.0
+accelerate>=1.11
+qwen-vl-utils==0.0.14
+matplotlib>=3.7
+numpy>=1.24
+Pillow>=9.5

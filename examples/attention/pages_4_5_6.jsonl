@@ -1,0 +1,1 @@
+{"image": ["1706.03762v7_page-0004.jpg", "1706.03762v7_page-0005.jpg", "1706.03762v7_page-0006.jpg"], "image_size": [[0, 0], [0, 0], [0, 0]], "num_images": 3, "user": "Page 4:\n<image>\nPage 5:\n<image>\nPage 6:\n<image>\nRead the table continuously across the boundary from Page 4 into Page 5, then use Page 6 only as the following context page.", "assistant": ""}
